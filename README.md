@@ -18,9 +18,9 @@ This is a hands-on project where I configured User Administration in ServiceNow,
 - Set Fred Luddy as Kara Prince's manager.
 
 ## ✅ Screenshots
-![Strawberry Support Group](screenshot1.png)  
-![Kara Prince User Record](screenshot2.png)  
-![itil Role Assigned](screenshot3.png)
+![Strawberry Support Group](https://github.com/tanaygt/servicenow-user-admin-project/blob/main/Screenshot%202025-09-08%20190602.png)  
+![Kara Prince User Record](https://github.com/tanaygt/servicenow-user-admin-project/blob/main/Screenshot%202025-09-08%20190632.png)  
+![itil Role Assigned](https://github.com/tanaygt/servicenow-user-admin-project/blob/main/Screenshot%202025-09-08%20190713.png)
 
 ## ✅ Conclusion
 This project helped me practically understand ServiceNow’s user, group, and role management features.
